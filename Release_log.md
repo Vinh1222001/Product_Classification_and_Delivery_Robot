@@ -10,3 +10,10 @@
     - Create PlatformIO project for Movementa and Delivery Component,  
     - Create and Write README and Release,  
     - Push the Project to github.
+
+## Ho Chi Minh, 01/05/2024 21:25 UTC +7
+- **Overview:**
+    Update README.md
+
+- **Detail:**  
+    - Add content of Overview section
