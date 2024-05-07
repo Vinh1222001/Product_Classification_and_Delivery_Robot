@@ -42,3 +42,12 @@ About delivery, it use ESP32 WROOM 32 to control movement and get the product. I
 
 [The hundred page Machine Learning Book - Andriy Burkov](./Documents/the-hundred-page-machine-learning-book_compress.pdf)
 
+[[Handbook CV with DL - Phần 1] Các khái niệm cơ bản trong Computer Vision và Deep Learning - Phạm Văn Toàn](https://viblo.asia/p/handbook-cv-with-dl-phan-1-cac-khai-niem-co-ban-trong-computer-vision-va-deep-learning-maGK7p2MZj2)
+
+[Types Of Activation Function in ANN](https://www.geeksforgeeks.org/types-of-activation-function-in-ann/)
+
+[Introduction: The Perceptron -  Haim Sompolinsky, MIT](https://web.mit.edu/course/other/i2course/www/vision_and_learning/perceptron_notes.pdf)
+
+[Activation Functions in Neural Networks [12 Types & Use Cases]](https://www.v7labs.com/blog/neural-networks-activation-functions#h3)
+
+[Perceptron - Wikipedia](https://en.wikipedia.org/wiki/Perceptron)
