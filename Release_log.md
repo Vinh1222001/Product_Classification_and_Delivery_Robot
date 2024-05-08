@@ -13,6 +13,12 @@
     Write Report
 
 - **Detail:**  
+    - Completed Artificial Neural Networks (ANNs) section again
+## Ho Chi Minh, 06/05/2024 12:02 UTC +7
+- **Overview:**
+    Write Report
+
+- **Detail:**  
     - Completed Artificial Neural Networks (ANNs) section
 
 ## Ho Chi Minh, 05/05/2024 12:02 UTC +7
