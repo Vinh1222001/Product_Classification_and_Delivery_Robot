@@ -51,3 +51,11 @@ About delivery, it use ESP32 WROOM 32 to control movement and get the product. I
 [Activation Functions in Neural Networks [12 Types & Use Cases]](https://www.v7labs.com/blog/neural-networks-activation-functions#h3)
 
 [Perceptron - Wikipedia](https://en.wikipedia.org/wiki/Perceptron)
+
+[Feedforward Neural Networks in Depth, Part 1: Forward and Backward Propagations - Jonas Lalin](https://jonaslalin.com/2021/12/10/feedforward-neural-networks-part-1/)
+
+[Tích chập](https://vi.wikipedia.org/wiki/T%C3%ADch_ch%E1%BA%ADp)
+
+[Kernel](https://en.wikipedia.org/wiki/Kernel_(image_processing))
+
+[FundamentalConceptsofConvolutional NeuralNetwork](./Documents/Fundamental%20Concepts%20of%20Convolutional%20Neural%20Network.pdf)

@@ -8,12 +8,29 @@
             <content>  
 
 # RELEASES
+## Ho Chi Minh, 09/05/2024 12:02 UTC +7
+- **Overview:**
+    Write Report
+
+- **Detail:**  
+    - Completed Convolutional Neural Networks (CNNs) 
+    - Update Outline
+    - Write Computer Vision 
+
+## Ho Chi Minh, 08/05/2024 12:02 UTC +7
+- **Overview:**
+    Write Report
+
+- **Detail:**  
+    - Completed Artificial Neural Networks (ANNs)
+    - Write Convolutional Neural Networks (CNNs)
+
 ## Ho Chi Minh, 06/05/2024 12:02 UTC +7
 - **Overview:**
     Write Report
 
 - **Detail:**  
-    - Completed Artificial Neural Networks (ANNs) section again
+    - Continue to complete Artificial Neural Networks (ANNs) 
 ## Ho Chi Minh, 06/05/2024 12:02 UTC +7
 - **Overview:**
     Write Report

@@ -40,51 +40,54 @@
 - Applications of Deep Learning in various domains, including Computer Vision
 ### 2.1.2 Artificial Neural Networks (ANNs)
 
-**A. Introduction to Neural Networks**
-- Explain the concept of artificial neurons and how they are organized into networks.
-- Describe the structure and functioning of a perceptron.
-- Network architectures: Feedforward, recurrent, convolutional, and other types
+**2.1.2.1 Perceptron**
 
-**B. Perceptron**
+**2.1.2.2 Network structure**
 
-**C. Activation Functions**
-- Discuss commonly used activation functions such as sigmoid, tanh, and ReLU.
-- Explain their characteristics and suitability for different tasks.
+**2.1.2.3 Lan truyển tiến (Forward propagation)**
 
-**D. Loss Functions**
-- Define loss functions and their role in measuring the difference between predicted and actual values.
-- Discuss popular loss functions like Mean Squared Error (MSE) and Cross-Entropy Loss.
-
-**E. Optimization Techniques**
-- Introduce optimization algorithms used to minimize the loss function during training, such as Backpropagation and Gradient Descent.
-- Explain their working principles and advantages/disadvantages.
-
-**F. Regularization Methods**
-- Explain regularization techniques like Dropout and L2 Regularization to prevent overfitting.
-- Discuss how they work and when to apply them.
+**2.1.2.4 Lan truyền ngược (Backpropagation)**
 
 ## 2.2 Convolutional Neural Networks (CNNs)
-### 2.2.1 Convolutional Layers
-- Describe the convolution operation and its importance in CNNs.
-- Explain the concept of 
 
-    - filters/kernels,
-    - tride,
-    - padding,
-    - pooling,
-        - Discuss pooling operations like Max Pooling and Average Pooling used to downsample feature maps.
-        - Explain their significance in reducing computational complexity and extracting dominant features.
-    - Flatten,
+### 2.2.1. Giới thiệu chung
 
-    and their role in feature extraction.
+### 2.2.2. Các khái niệm cơ bản
+**2.2.2.1. Ảnh trên máy tính**
 
-### 2.2.2 CNN Architectures
-- Overview popular CNN architectures like LeNet, AlexNet, VGG, GoogLeNet (Inception), and ResNet.
-- Discuss their key features, strengths, and applications.
+**2.2.2.2. Tensor**
 
-### 2.2.3 Transfer Learning
-- Explain the concept of transfer learning and how pre-trained CNN models can be adapted for new tasks.
-- Discuss techniques for fine-tuning and feature extraction.
+**2.2.2.3. Chuyển hệ màu của ảnh**
+
+**2.2.2.4. Kernels và phép tính convolution**
+
+**2.2.2.5. Padding**
+
+**2.2.2.6. Stride**
+
+**2.2.2.7. Flatten**
+
+**2.2.2.8. Ý nghĩa của phép tính convolution**
+
+**2.2.2.9. Feature Map**
+
+### 2.2.3. Convolutional Layers
+
+### 2.2.4. Pooling Layers
+
+### 2.2.5. Fully Connected Layers
+
+### 2.2.6. CNN Architectures for Object Classification
+
+**2.2.6.1. LeNet-5**
+
+**2.2.6.2. AlexNet**
+
+**2.2.6.3. VGG 16 (Visual Geometry Group 16)**
+
+**2.2.6.4. ResNet (Residual Network)**
+
+**2.2.6.5. DenseNet (Densely Connected Convolutional Networks)**
 
 ## 2.3 Computer Vision
 ### 2.3.1 Digital Image Fundamentals:
