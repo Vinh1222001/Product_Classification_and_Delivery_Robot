@@ -59,3 +59,5 @@ About delivery, it use ESP32 WROOM 32 to control movement and get the product. I
 [Kernel](https://en.wikipedia.org/wiki/Kernel_(image_processing))
 
 [FundamentalConceptsofConvolutional NeuralNetwork](./Documents/Fundamental%20Concepts%20of%20Convolutional%20Neural%20Network.pdf)
+
+[Selective Search for Object Detection (C++ / Python)](https://learnopencv.com/selective-search-for-object-detection-cpp-python/)

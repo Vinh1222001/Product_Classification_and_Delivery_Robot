@@ -8,6 +8,16 @@
             <content>  
 
 # RELEASES
+
+## Ho Chi Minh, 09/05/2024 8:21 UTC +7
+- **Overview:**
+    Write Report
+
+- **Detail:**  
+    - Completed Computer vision 
+    - Update Outline
+    - Write Studying method
+
 ## Ho Chi Minh, 09/05/2024 12:02 UTC +7
 - **Overview:**
     Write Report
