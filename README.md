@@ -61,3 +61,5 @@ About delivery, it use ESP32 WROOM 32 to control movement and get the product. I
 [FundamentalConceptsofConvolutional NeuralNetwork](./Documents/Fundamental%20Concepts%20of%20Convolutional%20Neural%20Network.pdf)
 
 [Selective Search for Object Detection (C++ / Python)](https://learnopencv.com/selective-search-for-object-detection-cpp-python/)
+
+[Tìm hiểu về YOLO trong bài toán real-time object detection](https://viblo.asia/p/tim-hieu-ve-yolo-trong-bai-toan-real-time-object-detection-yMnKMdvr57P)
