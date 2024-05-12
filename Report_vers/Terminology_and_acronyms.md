@@ -12,10 +12,14 @@
 
 **Inputs**:
 
-**Weights**:
+**Weights**: trọng số 
 
-**Weight sum**:
+**Weight sum**: tổng trọng số
 
-**Activation function**:
+**Activation function**: Hàm kích hoạt
 
 **Output**:
+
+**ReLU**: Rectified Linear Unit
+
+**leak factor**:

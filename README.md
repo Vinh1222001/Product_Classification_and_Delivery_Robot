@@ -36,6 +36,12 @@ About delivery, it use ESP32 WROOM 32 to control movement and get the product. I
 [About Topic.docx](https://1drv.ms/w/s!AuObLsIYMjv4g6c06n-efRIwzQwZ1A?e=K9vBls)
 
 # 8. References <a id="references"></a>
+[Logistics Việt Nam (11/07/2022). Tìm hiểu các loại chi phí lưu kho trong doanh nghiệp, truy cập 27/02/2024, từ https://alslogistics.vn/tim-hieu-cac-loai-chi-phi-luu-kho-trong-doanh-nghiep/](https://alslogistics.vn/tim-hieu-cac-loai-chi-phi-luu-kho-trong-doanh-nghiep/)
+
+[Mordor Intelligence (2024). Robotics Industry Size & Share Analysis - Growth Trends & Forecasts (2024 - 2029), truy cập 27/02/2022 từ https://www.mordorintelligence.com/industry-reports/robotics-market](https://www.mordorintelligence.com/industry-reports/robotics-market)
+
+[Interational Federation of Robotics (2020). IFR presents World Robotics Report 2020, truy cập 27/02/2024, từ https://ifr.org/ifr-press-releases/news/record-2.7-million-robots-work-in-factories-around-the-globe](https://ifr.org/ifr-press-releases/news/record-2.7-million-robots-work-in-factories-around-the-globe)
+
 [Machine Learning cơ bản - Vũ Hữu Hiệp](.\Documents\1257-machine-learning-co-ban-thuviensach.vn.pdf)
 
 [ESP32 ESP IDF Programming Guide](./Documents/esp-idf-en-master-esp32.pdf)
