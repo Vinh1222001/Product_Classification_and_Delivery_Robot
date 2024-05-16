@@ -1,25 +1,27 @@
-**AI**:  Artificial Intelligence -> Trí tuệ nhân tạo
+**AI (Trí tuệ nhân tạo)**: Khả năng của máy móc mô phỏng trí thông minh con người.
 
-**ML**: Machine Learning -> Học máy
+**ML (Học máy)**: Cung cấp cho máy móc khả năng học hỏi từ dữ liệu mà không cần được lập trình cụ thể.
 
-**DL**: Deep Learning -> Học sâu
+**DL (Học sâu)**: Một nhánh của ML sử dụng mạng nơ-ron nhân tạo mô phỏng cấu trúc não bộ để học hỏi từ dữ liệu phức tạp.
 
-**ANN**: Artificial Neural Network -> Các mạng nơ-ron nhân tạo
+**ANN (Mạng nơ-ron nhân tạo)**: Hệ thống tính toán mô phỏng mạng nơ-ron trong não bộ, gồm các nơ-ron kết nối với nhau.
 
-**Neuron**: Tế bào thần kinh trong não người hoặc là 1 node trong ANN.
+**Neuron (Tế bào thần kinh)**: Đơn vị cơ bản trong ANN, nhận tín hiệu đầu vào, xử lý và truyền tín hiệu ra.
 
-**Perceptron** :
+**Perceptron**: Mô hình học máy đơn giản để phân loại dữ liệu, gồm input, weights, weight sum, activation function, output.
 
-**Inputs**:
+**ReLU**: Hàm kích hoạt phổ biến, f(x) = max(0, x), đơn giản, hiệu quả, có thể dẫn đến "dead neurons".
 
-**Weights**: trọng số 
+**Leaky ReLU**: Biến thể của ReLU với tham số leak factor, giúp giải quyết "dead neurons".
 
-**Weight sum**: tổng trọng số
+**Sigmoid**: Hàm kích hoạt phi tuyến tính, f(x) = 1 / (1 + exp(-x)), có thể biến mất gradient.
 
-**Activation function**: Hàm kích hoạt
+**MLP (Multilayer perceptron)**: Mạng nơ-ron nhiều lớp, học được mô hình phức tạp hơn perceptron đơn.
 
-**Output**:
+**Layer (Lớp)**: Cấp trong mạng nơ-ron, gồm nhiều nơ-ron kết nối với nhau.
 
-**ReLU**: Rectified Linear Unit
+**Hidden Layer (Lớp ẩn)**: Lớp nằm giữa input và output, giúp học mối quan hệ phức tạp trong dữ liệu.
 
-**leak factor**:
+**Fully-connected**: Mỗi nơ-ron trong một lớp kết nối với tất cả nơ-ron trong lớp trước.
+
+**Feedforward Neural Networks**: Mạng nơ-ron thông tin di chuyển theo một hướng, không có vòng lặp.

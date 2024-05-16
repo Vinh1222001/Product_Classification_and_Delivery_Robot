@@ -8,6 +8,13 @@
             <content>  
 
 # RELEASES
+## Ho Chi Minh, 012/05/2024 10:05 UTC +7
+- **Overview:**
+    Completed Report
+
+- **Detail:**  
+    - Completed Report and send to instructor
+    - Waiting for feedback from instructor 
 
 ## Ho Chi Minh, 09/05/2024 8:21 UTC +7
 - **Overview:**
