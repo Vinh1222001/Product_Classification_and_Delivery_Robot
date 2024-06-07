@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "v:/E-learning/DACN/Product_Classification_and_Delivery_Robot/Sources/Detection_and_Classification_Comp/src",
-      "program": "v:/E-learning/DACN/Product_Classification_and_Delivery_Robot/Sources/Detection_and_Classification_Comp/src/build/Debug/outDebug",
+      "cwd": "v:/Elearning/HK232/Product_Classification_and_Delivery_Robot/Sources/Detection_and_Classification_Comp",
+      "program": "v:/Elearning/HK232/Product_Classification_and_Delivery_Robot/Sources/Detection_and_Classification_Comp/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
