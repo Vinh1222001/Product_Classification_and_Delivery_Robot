@@ -1,0 +1,221 @@
+<mxfile host="app.diagrams.net" modified="2024-07-19T09:46:59.942Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="yldAp3LZZibpWhBCrs-x" version="24.7.1" type="device">
+  <diagram name="Trang-1" id="Ye1tOqnJtC1jEY8crfQ9">
+    <mxGraphModel dx="1646" dy="1073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8vzVHPugw73jZUY_vPEU-13" value="ESP32 WROOM 32" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="750" y="100" width="530" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-2" value="ESP32 CAM" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="200" y="100" width="220" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vzVHPugw73jZUY_vPEU-1" target="8vzVHPugw73jZUY_vPEU-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-1" value="Camera" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-3" value="Pan Servo&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-4" value="Tilt Servo&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="8vzVHPugw73jZUY_vPEU-5" target="8vzVHPugw73jZUY_vPEU-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="255" />
+              <mxPoint x="220" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vzVHPugw73jZUY_vPEU-5" target="8vzVHPugw73jZUY_vPEU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-5" value="Object Detection Unit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8vzVHPugw73jZUY_vPEU-6" target="8vzVHPugw73jZUY_vPEU-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="160" />
+              <mxPoint x="440" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8vzVHPugw73jZUY_vPEU-6" target="8vzVHPugw73jZUY_vPEU-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="160" />
+              <mxPoint x="440" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-6" value="Servo Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vzVHPugw73jZUY_vPEU-7" target="8vzVHPugw73jZUY_vPEU-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-7" value="Data Communication Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-14" value="Data Communication Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8vzVHPugw73jZUY_vPEU-15" target="8vzVHPugw73jZUY_vPEU-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-15" value="Display Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-17" value="MPU6050" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-18" value="Gripper servo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-19" value="L298N Motor Driver" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-20" value="TCS3200" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-22" value="Moving Controller" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="930" y="140" width="340" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-21" value="Line follwer sensor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8vzVHPugw73jZUY_vPEU-26" target="8vzVHPugw73jZUY_vPEU-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-26" value="Gripper Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-27" value="OLED" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vzVHPugw73jZUY_vPEU-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1360" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1290" y="390" />
+              <mxPoint x="1290" y="310" />
+              <mxPoint x="1360" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8vzVHPugw73jZUY_vPEU-31" target="8vzVHPugw73jZUY_vPEU-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1330" y="390" />
+              <mxPoint x="1330" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-31" value="Shift register" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="8vzVHPugw73jZUY_vPEU-32" target="8vzVHPugw73jZUY_vPEU-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1010" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vzVHPugw73jZUY_vPEU-32" target="8vzVHPugw73jZUY_vPEU-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-32" value="MPU Reader" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="8vzVHPugw73jZUY_vPEU-33" target="8vzVHPugw73jZUY_vPEU-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1090" y="200" />
+              <mxPoint x="1090" y="275" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-33" value="Line follow Reader" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vzVHPugw73jZUY_vPEU-34" target="8vzVHPugw73jZUY_vPEU-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="920" y="390" />
+              <mxPoint x="920" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8vzVHPugw73jZUY_vPEU-34" target="8vzVHPugw73jZUY_vPEU-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-34" value="UltraSonic Reader" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8vzVHPugw73jZUY_vPEU-35" target="8vzVHPugw73jZUY_vPEU-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-35" value="Line Color Reader" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vzVHPugw73jZUY_vPEU-36" target="8vzVHPugw73jZUY_vPEU-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1090" y="310" />
+              <mxPoint x="1090" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vzVHPugw73jZUY_vPEU-36" target="8vzVHPugw73jZUY_vPEU-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="290" />
+              <mxPoint x="910" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-36" value="Motor Driver" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vzVHPugw73jZUY_vPEU-21" target="8vzVHPugw73jZUY_vPEU-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1330" y="200" />
+              <mxPoint x="1330" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8vzVHPugw73jZUY_vPEU-20" target="8vzVHPugw73jZUY_vPEU-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1300" y="290" />
+              <mxPoint x="1300" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8vzVHPugw73jZUY_vPEU-42" target="8vzVHPugw73jZUY_vPEU-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1310" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-42" value="HC-SR04" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8vzVHPugw73jZUY_vPEU-56" value="" style="endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="8vzVHPugw73jZUY_vPEU-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1090" y="340" as="sourcePoint" />
+            <mxPoint x="1190" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1090" y="340" />
+              <mxPoint x="1420" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
